@@ -1,0 +1,39 @@
+body {
+    background-color: red;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    object-fit: cover;
+    margin-left: 50%;
+    margin-top: 12.5%;
+    height: 80vh;
+    width: 80vh;
+    transform: translateX(-50%);
+    position: absolute;
+}
+
+#PIPI {
+    object-fit: cover;
+    margin-left: 10%;
+    margin-top: 16.5%;
+    height: 80vh;
+    width: 80vh;
+    transform: translateX(-50%);
+    position: absolute;	
+}
+
+#FEUR {
+    margin-left: 50%;
+    transform: translateX(-10%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    width: 75%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
